@@ -4,7 +4,7 @@
 		"parameters": {
 			"StorageName": {
 				"type": "string",
-				"defaultValue": "vishnuustr01"
+				"defaultValue": "vishnuustr0001"
 			}
 		},
 		"annotations": [],
