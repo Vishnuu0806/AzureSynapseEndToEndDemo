@@ -4,7 +4,7 @@
 		"parameters": {
 			"StorageName": {
 				"type": "string",
-				"defaultValue": "healthstr0073"
+				"defaultValue": "strealth10"
 			}
 		},
 		"annotations": [],
