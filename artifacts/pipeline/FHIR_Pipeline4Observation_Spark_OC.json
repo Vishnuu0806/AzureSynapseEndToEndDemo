@@ -230,19 +230,19 @@
 		"parameters": {
 			"StorageName": {
 				"type": "string",
-				"defaultValue": "healthstr0073"
+				"defaultValue": "strealth10"
 			},
 			"DatabaseName": {
 				"type": "string",
-				"defaultValue": "spk0073"
+				"defaultValue": "sqlhealth1010"
 			},
 			"ServerName": {
 				"type": "string",
-				"defaultValue": "spn0073"
+				"defaultValue": "healthwsva"
 			},
 			"SparkPoolName": {
 				"type": "string",
-				"defaultValue": "spk0073"
+				"defaultValue": "sprhealth1010"
 			},
 			"DatasetSize": {
 				"type": "string",
