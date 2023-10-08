@@ -230,23 +230,23 @@
 		"parameters": {
 			"StorageName": {
 				"type": "string",
-				"defaultValue": "synapsee2elake"
+				"defaultValue": "healthstr0073"
 			},
 			"DatabaseName": {
 				"type": "string",
-				"defaultValue": "synapsee2edw"
+				"defaultValue": "spk0073"
 			},
 			"ServerName": {
 				"type": "string",
-				"defaultValue": "synapsee2e"
+				"defaultValue": "spn0073"
 			},
 			"SparkPoolName": {
 				"type": "string",
-				"defaultValue": "synapsee2espark"
+				"defaultValue": "spk0073"
 			},
 			"DatasetSize": {
 				"type": "string",
-				"defaultValue": "1tb"
+				"defaultValue": "30tb"
 			}
 		},
 		"folder": {

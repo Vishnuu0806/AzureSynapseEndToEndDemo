@@ -182,11 +182,12 @@
 		],
 		"parameters": {
 			"TargetStorageName": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "healthstr0073"
 			},
 			"DatasetSize": {
 				"type": "string",
-				"defaultValue": "1tb"
+				"defaultValue": "30tb"
 			}
 		},
 		"folder": {
